@@ -1,2 +1,2 @@
 # sudoku
-The Game of Sudoku using Python 3
+The Game of Sudoku with Backtracking using Python 3
